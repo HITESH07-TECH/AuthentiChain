@@ -30,6 +30,14 @@ AuthentiChain is a decentralized platform designed to authenticate and verify do
 3. Commit your changes and push to your branch.
 4. Submit a pull request for review.
 
+## Contract Details
+
+The smart contracts for AuthentiChain are deployed at the following address:
+
+- **Contract Address:** 0x8d8862e603400092902b037caec23790f8d3c0b33e37e30efb5025984826dfb1
+
+You can find this address in the `Move.toml` file under the relevant section.
+
 ## License
 
 This project is open-source and available under the MIT License.
